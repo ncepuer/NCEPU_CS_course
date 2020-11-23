@@ -73,6 +73,7 @@
 - [编译原理](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/5.%E5%A4%A7%E4%B8%89%E4%B8%8A/2.%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86)
 - [计算机组成原理](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/5.%E5%A4%A7%E4%B8%89%E4%B8%8A/3.%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86)
 - [数据库](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/5.%E5%A4%A7%E4%B8%89%E4%B8%8A/5.%E6%95%B0%E6%8D%AE%E5%BA%93)
+- [计算机网络](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/6.%E5%A4%A7%E4%B8%89%E4%B8%8B/2.%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
 - [操作系统](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/6.%E5%A4%A7%E4%B8%89%E4%B8%8B/1.%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
 - [Linux体系及编程](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/7.%E5%A4%A7%E5%9B%9B%E4%B8%8A/1.Linux%E4%BD%93%E7%B3%BB%E5%8F%8A%E7%BC%96%E7%A8%8B)
 - [Scala](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/5.%E5%A4%A7%E4%B8%89%E4%B8%8A/%E4%B8%93%E9%80%89%E8%AF%BE1.Scala%E8%AF%AD%E8%A8%80)
@@ -81,7 +82,7 @@
 - [GIT教程](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/6.%E5%A4%A7%E4%B8%89%E4%B8%8B/4.%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/git)
 - [Shell程序设计](https://github.com/IammyselfYBX/NCEPU_CS_course/blob/master/7.%E5%A4%A7%E5%9B%9B%E4%B8%8A/1.Linux%E4%BD%93%E7%B3%BB%E5%8F%8A%E7%BC%96%E7%A8%8B/%E7%BC%96%E7%A8%8B%E5%AE%9E%E4%BE%8B/Shell/README.md)
 - [GCC_G++与系统编程](https://github.com/IammyselfYBX/NCEPU_CS_course/blob/master/7.%E5%A4%A7%E5%9B%9B%E4%B8%8A/1.Linux%E4%BD%93%E7%B3%BB%E5%8F%8A%E7%BC%96%E7%A8%8B/%E7%BC%96%E7%A8%8B%E5%AE%9E%E4%BE%8B/GCC_G%2B%2B%E4%B8%8E%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B/README.md)
-
+- [嵌入式系统A](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/7.%E5%A4%A7%E5%9B%9B%E4%B8%8A/2.%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%B3%BB%E7%BB%9FA)
 
 
 ###### 软件工程
@@ -111,7 +112,9 @@
 - [Minotaur](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/2.%E5%A4%A7%E4%B8%80%E4%B8%8B/1.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/Minotaur)
 - [人脸识别](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/3.%E5%A4%A7%E4%BA%8C%E4%B8%8A/1.%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1/11.%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB)
 - [终端词法语法分析器 ---- ybx compiler](https://github.com/IammyselfYBX/NCEPU_CS_course/tree/master/5.%E5%A4%A7%E4%B8%89%E4%B8%8A/2.%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1%E8%A6%81%E6%B1%82/2019)
-
+- [计算机网络大作业——制作一个聊天工具](https://github.com/IammyselfYBX/Qt_test_QQ)
+- [软件工程与操作系统大作业——制作一个操作系统](https://github.com/IammyselfYBX/make_OS)
+- [制作Windows命令解释器](https://github.com/IammyselfYBX/2020_Linux_shell)
 
 
 ---
@@ -127,22 +130,62 @@ git clone https://github.com/IammyselfYBX/NCEPU_CS_course.git
 
 ### 如何获取项目中的部分文件？
 
+#### 三、码云（gitee）
+![使用码云1](图片/manyun1.jpg)
+![使用码云2](图片/manyun2.jpg)
+![使用码云3](图片/manyun3.jpg)
+
+#### 四、代理下载
+1.[GitHub文件加速](https://shrill-pond-3e81.hunsh.workers.dev/)
+
+2.[GitHub 文件加速](https://g.widora.cn/)
+
 可能随着文件的不断增多，项目的体积越来越庞大，可能对于网络环境相对较差的同学来讲，完整的 clone 此项目会变得非常的吃力。为了考虑到这一部分的同学，在这里，我提供几种开源的工具供大家使用：
 
-1、[DownGit](http://minhaskamal.github.io/DownGit)
+###### 1、[DownGit](http://minhaskamal.github.io/DownGit)
 
 使用方法如下图所示：
 
 ![DownGit](图片/DownGit.gif)
 > downgit 已经不可用了，因为里面引用了 googel上的一个js，国内有人翻版了downgit，目前是可用[网页链接](http://zhoudaxiaa.gitee.io/downgit/#/home) 
 
-2、[GitZip](http://kinolien.github.io/gitzip/)
+###### 2、[GitZip](http://kinolien.github.io/gitzip/)
 
 用法和 [DownGit](http://minhaskamal.github.io/DownGit) 一样，下面为使用方法的演示图：
 
 ![GitZip](图片/GitZip.jpg)
 
-上面的方法均无效？这里也许有你想要的答案：[Download a single folder or directory from a GitHub repo](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)。
+###### 3、[油猴脚本](https://greasyfork.org/zh-CN/scripts/412245-github-%E5%A2%9E%E5%BC%BA-%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD)
+![油猴脚本.png](图片/油猴脚本.png)
+
+###### 4、Sparse Checkout模式
+在Git1.7.0以后加入了Sparse Checkout模式，这使得Check Out指定文件或者文件夹成为可能。
+```bash
+[tony@tony-pc ~]$ mkdir git_test
+[tony@tony-pc ~]$ cd git_test/
+[tony@tony-pc git_test]$ git init
+Initialized empty Git repository in /home/tony/git_test/.git/
+[tony@tony-pc git_test]$ git remote add -f origin https://github.com/NiuTrans/MTBook.git
+Updating origin
+remote: Enumerating objects: 300, done.
+remote: Counting objects: 100% (300/300), done.
+remote: Compressing objects: 100% (293/293), done.
+remote: Total 1040 (delta 154), reused 27 (delta 6), pack-reused 740
+Receiving objects: 100% (1040/1040), 38.93 MiB | 1.09 MiB/s, done.
+Resolving deltas: 100% (389/389), done.
+From https://github.com/NiuTrans/MTBook
+ * [new branch]      master     -> origin/master
+ * [new branch]      xiaotong   -> origin/xiaotong
+ * [new tag]         v0.1-beta  -> v0.1-beta
+[tony@tony-pc git_test]$  git config core.sparsecheckout true
+[tony@tony-pc git_test]$ echo "mt-book.pdf" >> .git/info/sparse-checkout
+[tony@tony-pc git_test]$ git pull origin master 
+From https://github.com/NiuTrans/MTBook
+ * branch            master     -> FETCH_HEAD
+```
+![sparsecheckout](图片/sparsecheckout.png)
+
+###### 上面的方法均无效？这里也许有你想要的答案：[Download a single folder or directory from a GitHub repo](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)。
 
 
 ---
@@ -183,7 +226,14 @@ git clone https://github.com/IammyselfYBX/NCEPU_CS_course.git
 ![图片](图片/文件夹.png)
 
 ---
-## 最后
+## 最后想说的话
+> 与恶龙缠斗过久，自身亦成为恶龙；<br>
+> 凝视深渊过久，深渊将回以凝视。<br>
+> &emsp;&emsp;——尼采《善恶的彼岸》
+> 当年的屠龙少年与恶龙缠斗过久，如今身上长出鳞甲，发出恶臭，他变成了龙……<br>
+> 虽然当年被预警有过很无助的时候，当时没有人站出来帮过我一把，得到的是沉默，忙或者是连这都不会自己好好回去看看书的回复，但是后来既然迎头赶上，希望能给其他人一些帮助，也不希望自己会成为当年自己讨厌的一群人。
+
+
 &emsp;&emsp;如果你认为本仓库的一些文件侵犯了您的权益，请联系我[QQ邮箱](mailto:2252176220@qq.com) 。我将会从仓库中彻底清除这些文件。<br>
 > 资料仅供参考，请自己判断其适用性。其他部分的版权归属于其各自的作者。<br>
  感谢对本项目贡献的同学 <br>
